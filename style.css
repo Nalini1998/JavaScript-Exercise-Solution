@@ -1,0 +1,20 @@
+h1 {
+  font-size: 20px;
+  color: red;
+  text-align: center;
+  margin: 20px;
+}
+
+img {
+  float: left;
+  padding: 0 20px;
+}
+
+h3 {
+  margin: 20px;
+}
+
+span {
+  text-decoration: underline;
+  color: #424242;
+}
