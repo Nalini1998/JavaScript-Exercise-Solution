@@ -1,0 +1,36 @@
+h1 {
+  font-size: 20px;
+  color: red;
+  text-align: center;
+  margin: 20px;
+}
+
+#logo {
+  float: left;
+  padding: 0 20px;
+}
+
+img {
+  float: left;
+  margin: 20px;
+}
+
+h3 {
+  margin: 20px;
+  font-size: 15px;
+}
+
+span {
+  text-decoration: underline;
+  color: red;
+}
+
+button {
+  background-color: #B2DFDB;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 5px;
+  border: none;
+  margin: 10px;
+}
+
